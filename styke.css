@@ -4,6 +4,39 @@
 }
 
 h1{
+    color: darkgoldenrod;
     text-align: center;
 }
 
+body{
+    background-color: rgb(38, 38, 38);
+}
+
+main{
+    text-align: center;
+    color: cornflowerblue;
+    height: 150px;
+}
+
+button{
+    margin: 15px 12px 15px 12px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 25px;
+    width: 70px;
+}
+
+div{
+    border: black solid 3px;
+    background-color: lightsteelblue;
+    height: 120px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+#push{
+    border: black solid 3px;
+    background-color: lightsteelblue;
+    height: 50px;
+}
